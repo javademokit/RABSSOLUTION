@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Impact in Action",
+    "paragraph": "How small actions can yield outsized sustainability results."
+  },
+  "About": {
+    "paragraph": "RABS Solution is a global software products and digital services company that focuses on driving a differentiated customer experience, accelerating cycle time and improving business outcomes through an integration of digital solutions, robotic process automation, artificial intelligence, machine learning and IoT. Our solutions leverage next generation disruptive technologies to deliver competitive advantage to your business. Our flagship product ‘Arttha’ – one of the fastest growing financial technology platform – focuses around Digital Banking, Digital Wallets & Core Banking solutions",
+    "Why": [
+      "Expertise: Our team comprises highly skilled professionals with extensive expertise in various domains of IT, ensuring top-notch solutions tailored to your needs.",
+      "Innovation: We embrace innovation, staying at the forefront of technological advancements to provide cutting-edge solutions that give your business a competitive edge.",
+      "Customization: Every project is approached with a bespoke mindset, ensuring that our solutions are tailor-made to suit your unique requirements and goals.",
+      "Reliability: You can count on us for consistent and reliable performance, meeting deadlines and delivering results that exceed expectations."
+    ],
+    "Why2": [
+      "Customer-Centric Approach: Your satisfaction is our priority. We maintain open communication channels, actively listening to your feedback and incorporating it into our solutions.",
+      "Security: We prioritize the security of your data and systems, implementing robust measures to safeguard against cyber threats and ensuring compliance with industry standards.",
+      "Scalability: Our solutions are designed to scale alongside your business, accommodating growth and evolving needs without compromising performance or efficiency.",
+      "Support & Maintenance: Our commitment doesn't end with project delivery. We provide ongoing support and maintenance services to ensure the continuous optimal performance of your systems."
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Java Development",
+      "text": "Java stands out as one of the most versatile and reliable programming languages in the world of software development. Its platform independence allows developers to write code once and run it on any device or operating system, making it an ideal choice for building cross-platform applications. With its robustness and stability, Java is trusted by developers worldwide."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Springboot Rest API ",
+      "text": "Spring Boot Rest API offers a powerful framework for building robust and scalable web services, making it a popular choice among developers for creating modern, efficient, and maintainable."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Docker Kubernet ",
+      "text": "Docker and Kubernetes are both technologies used in modern software development and deployment, often used together to create scalable and efficient systems. Here's a brief overview of each.Kubernetes, often abbreviated as K8s, is an open-source container orchestration platform designed to automate the deployment, scaling, and management of containerized applications"
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Python ",
+      "text": "Python is a high-level, interpreted programming language known for its simplicity, readability, and versatility."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Go Lang",
+      "text": "Go, also known as Golang, is a statically typed, compiled programming language designed for simplicity, efficiency, and concurrency. Developed by Google engineers in 2007 and publicly released in 2009, Go has gained popularity for its clean syntax, fast compilation, and built-in support for concurrent programming."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "React JS  ",
+      "text": "React.js, commonly referred to as React, is an open-source JavaScript library developed by Facebook for building user interfaces (UIs) for single-page applications (SPAs) and web applications. It's known for its efficiency, flexibility, and declarative approach to building UI components."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Shyam Yadav",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Abhishek Kumar",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "SBR KREETHI  MALL KATAMANALURE WHITEFILED 560049 ",
+    "phone": "+918095042235",
+    "email": "rabssolution@gmail.com",
+    "facebook": "shyamyadav.com",
+    "twitter": "rabs.com",
+    "youtube": "rabs.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "AI ",
+      "text": "Artificial Intelligence (AI) is a branch of computer science focused on creating systems that can perform tasks that typically require human intelligence. These tasks include things like visual perception, speech recognition, decision-making, and language translation. AI systems are designed to analyze data, learn from it, and make decisions or predictions based on that data."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Docker Kubernet ",
+      "text": "Docker and Kubernetes are two popular tools in the world of containerization and container orchestration, respectively."
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "Digital Banking",
+      "text": "Digital banking, also known as online banking or internet banking, refers to the use of digital technology to deliver banking services and conduct financial transactions remotely via the internet or mobile devices. It has revolutionized the way people manage their finances by providing convenient, accessible, and efficient banking services without the need to visit a physical bank branch."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Health Care ",
+      "text": "Health care encompasses a broad spectrum of services aimed at maintaining, restoring, or improving the health of individuals and communities. It involves the prevention, diagnosis, treatment, and management of illnesses, injuries, and other health conditions. Health care providers, including doctors, nurses, therapists, pharmacists, and various allied health professionals, play critical roles in delivering these services."
+    }
+  ]
+}
