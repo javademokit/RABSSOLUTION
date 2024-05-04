@@ -100,32 +100,32 @@
   "Testimonials": [
     {
       "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"RABS Solution consistently maintained open and clear lines of communication throughout the project, ensuring that all stakeholders were informed and involved at every stage.\"",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"They demonstrated a deep understanding of our project requirements from the outset, asking insightful questions and providing valuable suggestions to enhance the project's scope and functionality.\"",
       "name": "Johnathan Doe"
     },
     {
       "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"Throughout our engagement, RABS Solution exhibited a high level of professionalism and reliability, delivering on their commitments within agreed-upon timelines and budget constraints.\"",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"RABS Solution was highly responsive to feedback, promptly incorporating revisions and adjustments to ensure that the final deliverables aligned perfectly with our vision and objectives.\"",
       "name": "Johnathan Doe"
     },
     {
       "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"They demonstrated meticulous attention to detail in every aspect of the project, from the user interface design to the backend development, resulting in a polished and seamless user experience.\"",
       "name": "John Doe"
     },
     {
       "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "text": "\"We appreciated their transparent and honest communication style, which fostered trust and transparency throughout the project lifecycle, enabling us to make informed decisions.\"",
       "name": "Johnathan Doe"
     }
   ],
@@ -138,17 +138,17 @@
     {
       "img": "img/team/02.jpg",
       "name": "Abhishek Kumar",
-      "job": "Senior Designer"
+      "job": "Project Manager"
     },
     {
       "img": "img/team/03.jpg",
       "name": "Jane Doe",
-      "job": "Senior Designer"
+      "job": "Backend Developer"
     },
     {
       "img": "img/team/04.jpg",
       "name": "Karen Doe",
-      "job": "Project Manager"
+      "job": "Frontend Developer"
     }
   ],
   "Contact": {
